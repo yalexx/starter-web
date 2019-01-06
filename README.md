@@ -8,6 +8,10 @@ Some more text here.
 
 ## Purpose
 
+Some text here.
+
 ## Deployment
+
+Some text here.
 
 ## How to contribute
