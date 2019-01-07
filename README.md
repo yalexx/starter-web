@@ -15,3 +15,7 @@ Some text here.
 Some text here.
 
 ## How to contribute
+
+### Copyright
+
+2019 Git training Yanko Aleksandrov
