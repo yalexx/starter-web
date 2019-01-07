@@ -21,4 +21,4 @@ Pleas fork this repo.
 
 ### Copyright
 
-2019 Git training Yanko Aleksandrov
+2019 Git training Yanko Aleksandrov All rights reserved.
