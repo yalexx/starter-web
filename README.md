@@ -16,6 +16,8 @@ Some text here.
 
 ## How to contribute
 
+Pleas fork this repo. 
+
 ### Copyright
 
 2019 Git training Yanko Aleksandrov
