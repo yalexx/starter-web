@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yanko Aleksandrov superactro@gmail.com
 
 # THANKS
 
