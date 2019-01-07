@@ -1,6 +1,6 @@
 # Start Web Project
 
-This is a simple website project. Some mor text here.
+This is a simple website project. Some mor text here. Some more text. Rebase example.
 
 ## Introduction
 
