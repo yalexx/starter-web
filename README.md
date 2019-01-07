@@ -1,7 +1,8 @@
 # Start Web Project
 
 This is a simple website project. 
-Some mor text here. Some more text. Rebase example, more changes from myfeature branch
+Some mor text here. Some more text. Rebase example, more changes from myfeature branch.
+Updating emergency fix.
 
 ## Introduction
 
